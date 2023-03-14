@@ -1,0 +1,15 @@
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\obj\Debug\net7.0\Primeiro-projeto-github.csproj.AssemblyReference.cache
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\obj\Debug\net7.0\Primeiro-projeto-github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\obj\Debug\net7.0\Primeiro-projeto-github.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\obj\Debug\net7.0\Primeiro-projeto-github.AssemblyInfo.cs
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\obj\Debug\net7.0\Primeiro-projeto-github.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\bin\Debug\net7.0\Primeiro-projeto-github.exe
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\bin\Debug\net7.0\Primeiro-projeto-github.deps.json
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\bin\Debug\net7.0\Primeiro-projeto-github.runtimeconfig.json
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\bin\Debug\net7.0\Primeiro-projeto-github.dll
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\bin\Debug\net7.0\Primeiro-projeto-github.pdb
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\obj\Debug\net7.0\Primeiro-projeto-github.dll
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\obj\Debug\net7.0\refint\Primeiro-projeto-github.dll
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\obj\Debug\net7.0\Primeiro-projeto-github.pdb
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\obj\Debug\net7.0\Primeiro-projeto-github.genruntimeconfig.cache
+C:\Users\Fernando\Documents\Programinhas do Muriba\Primeiro-projeto-github\obj\Debug\net7.0\ref\Primeiro-projeto-github.dll
