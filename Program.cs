@@ -10,7 +10,7 @@ namespace primeiroprog{
                 System.Console.WriteLine("Alteração 1");
                 System.Console.WriteLine("Alteração 2");
                 System.Console.WriteLine("Alteração 3");
-
+                System.Console.WriteLine("Alteração em parte");
 
         }
 
